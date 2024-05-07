@@ -1,6 +1,7 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "name": "Seekers Alliance",
+    "symbol": "RAFFLE",
+    "description": "Welcome to Seekers Alliance.\n\n\"100 Bounty Cards, infinite paths to victory!\"",
+    "image": "https://github.com/DegenYM/sample-project-metadata/blob/63fb5561053d69a3b4a76ff3c44b1067e56aa1ae/LOGO_square.webp",
+    "external_link": "https://seekers.cards/" 
 }
